@@ -1,0 +1,32 @@
+Done! Congratulations on your new bot. You will find it at t.me/controle_estudantil_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.
+
+Use this token to access the HTTP API:
+
+
+705274247:AAFdbnmE8vIVWSS04ZY_srchMdCDyYIkTA0
+
+
+Keep your token secure and store it safely, it can be used by anyone to control your bot.
+
+For a description of the Bot API, see this page: https://core.telegram.org/bots/api
+
+
+id: 781204774
+
+
+Atualizações(updates):
+
+
+{"ok":true,"result":[{"update_id":246277885,
+"message":{"message_id":1,"from":{"id":781204774,"is_bot":false,"first_name":"Rafael","last_name":"Rezende"},"chat":{"id":781204774,"first_name":"Rafael","last_name":"Rezende","type":"private"},"date":1552049692,"text":"/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}},{"update_id":246277886,
+"message":{"message_id":2,"from":{"id":781204774,"is_bot":false,"first_name":"Rafael","last_name":"Rezende","language_code":"pt-br"},"chat":{"id":781204774,"first_name":"Rafael","last_name":"Rezende","type":"private"},"date":1552049698,"text":"chama"}}]}
+
+
+https://api.telegram.org/bot705274247:AAFdbnmE8vIVWSS04ZY_srchMdCDyYIkTA0/Metodo
+
+
+Heroku:
+
+https://api.telegram.org/bot
+705274247:AAFdbnmE8vIVWSS04ZY_srchMdCDyYIkTA0/setWebHook?url=https://whispering-basin-94307.herokuapp.com/
+
